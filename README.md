@@ -5,12 +5,11 @@ Domain : Full Stack Web Development
 Duration :Dec 5th to Feb 5th 2025  
 
 
-#helllo
 
 Real-Time Chat Application
 This repository contains a real-time chat application with features like user authentication, chat rooms, private messaging, and real-time communication using React for the frontend and Node.js with Socket.io for the backend.
 
-##Features
+Features
 User Authentication
 Secure login and registration with hashed passwords.
 JWT-based authentication for maintaining user sessions.
