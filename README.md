@@ -1,15 +1,15 @@
 * Name: SHYAM KUMAR V
 * Company : CODETECH IT SOLUTIONS
-Id : CT12DS2958
-Domain : Full Stack Web Development
-Duration :Dec 5th to Feb 5th 2025  
+* Id : CT12DS2958
+* Domain : Full Stack Web Development
+* Duration :Dec 5th to Feb 5th 2025  
 
 
 
-Real-Time Chat Application
+# Real-Time Chat Application
 This repository contains a real-time chat application with features like user authentication, chat rooms, private messaging, and real-time communication using React for the frontend and Node.js with Socket.io for the backend.
 
-Features
+## Features
 User Authentication
 Secure login and registration with hashed passwords.
 JWT-based authentication for maintaining user sessions.
