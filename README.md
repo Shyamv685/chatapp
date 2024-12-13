@@ -13,7 +13,7 @@ This repository contains a real-time chat application with features like user au
 User Authentication
 Secure login and registration with hashed passwords.
 JWT-based authentication for maintaining user sessions.
-Real-Time Messaging
+## Real-Time Messaging
 Powered by Socket.io for low-latency communication.
 Instant updates across clients.
 Chat Rooms
