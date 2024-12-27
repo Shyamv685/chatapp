@@ -14,7 +14,7 @@ const Register = () => {
         setInputData({
             ...inputData , [e.target.id]:e.target.value
         })
-    }
+    } 
 console.log(inputData);
     const selectGender=(selectGender)=>{
         setInputData((prev)=>({
